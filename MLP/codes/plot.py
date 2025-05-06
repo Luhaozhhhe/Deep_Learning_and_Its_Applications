@@ -26,24 +26,3 @@ def plot_loss_accuracy(train_loss_list, valid_loss_list, train_accuracy_list, va
     if save_path is not None:
         plt.savefig(os.path.join(save_path, 'accuracy_curve.png'))
     plt.show()
-
-
-def plot_confusion_matrix(conf_mat, class_names, normalize=True, save_path=None):
-
-    if normalize:
-        conf_mat = conf_mat.astype('float') / conf_mat.sum(axis=1, keepdims=True)
-
-    num_classes = len(class_names)
-    plt.figure()
-    plt.imshow(conf_mat, cmap=plt.cm.Blues)
-    plt.title('Confusion Matrix')
-    plt.colorbar()
-    tick_marks = np.arange(num_classes)
-    plt.xticks(tick_marks, class_names, rotation=90)
-    plt.yticks(tick_marks, class_names)
-    plt.ylabel('True Label')
-    plt.xlabel('Predicted Label')
-    plt.tight_layout()
-    if save_path is not None:
-        plt.savefig(os.path.join(save_path, 'confusion_matrix.png'))
-    plt.show()
