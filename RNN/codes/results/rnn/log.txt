@@ -1,0 +1,97 @@
+root@tomorin:~/Deep-Learning/RNN# source RNN/bin/activate
+(RNN) root@tomorin:~/Deep-Learning/RNN# python main.py --model rnn
+RNN(
+  (rnn): RNN(57, 128)
+  (fc): Linear(in_features=128, out_features=18, bias=True)
+)
+Epoch 1/50, Train Loss: 1.5489, Train Accuracy: 0.5489, Valid Loss: 1.2143, Valid Accuracy: 0.6565, Time: 9.86s
+Epoch 2/50, Train Loss: 1.0956, Train Accuracy: 0.6868, Valid Loss: 1.0071, Valid Accuracy: 0.7068, Time: 9.03s
+Epoch 3/50, Train Loss: 0.9541, Train Accuracy: 0.7203, Valid Loss: 0.9150, Valid Accuracy: 0.7318, Time: 9.12s
+Epoch 4/50, Train Loss: 0.8643, Train Accuracy: 0.7479, Valid Loss: 0.8703, Valid Accuracy: 0.7477, Time: 8.25s
+Epoch 5/50, Train Loss: 0.8086, Train Accuracy: 0.7612, Valid Loss: 0.8308, Valid Accuracy: 0.7514, Time: 9.04s
+Epoch 6/50, Train Loss: 0.7690, Train Accuracy: 0.7689, Valid Loss: 0.7897, Valid Accuracy: 0.7639, Time: 8.79s
+Epoch 7/50, Train Loss: 0.7285, Train Accuracy: 0.7807, Valid Loss: 0.7880, Valid Accuracy: 0.7661, Time: 8.84s
+Epoch 8/50, Train Loss: 0.7009, Train Accuracy: 0.7885, Valid Loss: 0.7543, Valid Accuracy: 0.7729, Time: 8.59s
+Epoch 9/50, Train Loss: 0.6747, Train Accuracy: 0.7917, Valid Loss: 0.7311, Valid Accuracy: 0.7756, Time: 8.77s
+Epoch 10/50, Train Loss: 0.6476, Train Accuracy: 0.8014, Valid Loss: 0.7266, Valid Accuracy: 0.7856, Time: 8.78s
+Epoch 11/50, Train Loss: 0.6318, Train Accuracy: 0.8013, Valid Loss: 0.7228, Valid Accuracy: 0.7758, Time: 7.92s
+Epoch 12/50, Train Loss: 0.6111, Train Accuracy: 0.8102, Valid Loss: 0.6926, Valid Accuracy: 0.7818, Time: 6.99s
+Epoch 13/50, Train Loss: 0.5890, Train Accuracy: 0.8172, Valid Loss: 0.6996, Valid Accuracy: 0.7873, Time: 8.63s
+Epoch 14/50, Train Loss: 0.5675, Train Accuracy: 0.8223, Valid Loss: 0.6822, Valid Accuracy: 0.7898, Time: 9.01s
+Epoch 15/50, Train Loss: 0.5497, Train Accuracy: 0.8247, Valid Loss: 0.6796, Valid Accuracy: 0.7838, Time: 8.94s
+Epoch 16/50, Train Loss: 0.5364, Train Accuracy: 0.8312, Valid Loss: 0.6442, Valid Accuracy: 0.8030, Time: 8.77s
+Epoch 17/50, Train Loss: 0.5154, Train Accuracy: 0.8373, Valid Loss: 0.6532, Valid Accuracy: 0.7973, Time: 7.53s
+Epoch 18/50, Train Loss: 0.5013, Train Accuracy: 0.8412, Valid Loss: 0.6458, Valid Accuracy: 0.8055, Time: 8.88s
+Epoch 19/50, Train Loss: 0.4794, Train Accuracy: 0.8454, Valid Loss: 0.6434, Valid Accuracy: 0.8047, Time: 8.81s
+Epoch 20/50, Train Loss: 0.4677, Train Accuracy: 0.8496, Valid Loss: 0.6418, Valid Accuracy: 0.8045, Time: 8.78s
+Epoch 21/50, Train Loss: 0.4521, Train Accuracy: 0.8551, Valid Loss: 0.6520, Valid Accuracy: 0.8030, Time: 8.89s
+Epoch 22/50, Train Loss: 0.4374, Train Accuracy: 0.8571, Valid Loss: 0.6446, Valid Accuracy: 0.8035, Time: 8.52s
+Epoch 23/50, Train Loss: 0.4209, Train Accuracy: 0.8631, Valid Loss: 0.6481, Valid Accuracy: 0.7980, Time: 8.31s
+Epoch 24/50, Train Loss: 0.4051, Train Accuracy: 0.8672, Valid Loss: 0.6513, Valid Accuracy: 0.8082, Time: 8.81s
+Epoch 25/50, Train Loss: 0.3932, Train Accuracy: 0.8730, Valid Loss: 0.6705, Valid Accuracy: 0.8007, Time: 8.74s
+Epoch 26/50, Train Loss: 0.3844, Train Accuracy: 0.8758, Valid Loss: 0.6563, Valid Accuracy: 0.8045, Time: 8.80s
+Epoch 27/50, Train Loss: 0.3686, Train Accuracy: 0.8810, Valid Loss: 0.6677, Valid Accuracy: 0.8015, Time: 8.32s
+Epoch 28/50, Train Loss: 0.3528, Train Accuracy: 0.8866, Valid Loss: 0.6569, Valid Accuracy: 0.8015, Time: 8.62s
+Epoch 29/50, Train Loss: 0.3422, Train Accuracy: 0.8883, Valid Loss: 0.6775, Valid Accuracy: 0.8005, Time: 8.83s
+Epoch 30/50, Train Loss: 0.3284, Train Accuracy: 0.8955, Valid Loss: 0.6794, Valid Accuracy: 0.8040, Time: 8.82s
+Epoch 31/50, Train Loss: 0.3185, Train Accuracy: 0.8963, Valid Loss: 0.6859, Valid Accuracy: 0.8032, Time: 8.48s
+Epoch 32/50, Train Loss: 0.3055, Train Accuracy: 0.9004, Valid Loss: 0.6921, Valid Accuracy: 0.7953, Time: 7.97s
+Epoch 33/50, Train Loss: 0.2955, Train Accuracy: 0.9047, Valid Loss: 0.6801, Valid Accuracy: 0.8045, Time: 8.17s
+Epoch 34/50, Train Loss: 0.2862, Train Accuracy: 0.9080, Valid Loss: 0.7019, Valid Accuracy: 0.7975, Time: 8.58s
+Epoch 35/50, Train Loss: 0.2720, Train Accuracy: 0.9116, Valid Loss: 0.7097, Valid Accuracy: 0.7983, Time: 9.17s
+Epoch 36/50, Train Loss: 0.2616, Train Accuracy: 0.9177, Valid Loss: 0.7256, Valid Accuracy: 0.7983, Time: 9.11s
+Epoch 37/50, Train Loss: 0.2573, Train Accuracy: 0.9177, Valid Loss: 0.7295, Valid Accuracy: 0.7948, Time: 8.59s
+Epoch 38/50, Train Loss: 0.2425, Train Accuracy: 0.9228, Valid Loss: 0.7357, Valid Accuracy: 0.7993, Time: 8.69s
+Epoch 39/50, Train Loss: 0.2413, Train Accuracy: 0.9205, Valid Loss: 0.7404, Valid Accuracy: 0.7968, Time: 8.93s
+Epoch 40/50, Train Loss: 0.2281, Train Accuracy: 0.9268, Valid Loss: 0.7581, Valid Accuracy: 0.7955, Time: 8.62s
+Epoch 41/50, Train Loss: 0.2216, Train Accuracy: 0.9298, Valid Loss: 0.7729, Valid Accuracy: 0.7973, Time: 9.36s
+Epoch 42/50, Train Loss: 0.2109, Train Accuracy: 0.9336, Valid Loss: 0.7880, Valid Accuracy: 0.7943, Time: 8.89s
+Epoch 43/50, Train Loss: 0.2113, Train Accuracy: 0.9316, Valid Loss: 0.7949, Valid Accuracy: 0.7968, Time: 8.91s
+Epoch 44/50, Train Loss: 0.2036, Train Accuracy: 0.9339, Valid Loss: 0.7945, Valid Accuracy: 0.7940, Time: 8.34s
+Epoch 45/50, Train Loss: 0.1967, Train Accuracy: 0.9364, Valid Loss: 0.8098, Valid Accuracy: 0.7903, Time: 8.91s
+Epoch 46/50, Train Loss: 0.1915, Train Accuracy: 0.9375, Valid Loss: 0.7955, Valid Accuracy: 0.7928, Time: 8.57s
+Epoch 47/50, Train Loss: 0.1828, Train Accuracy: 0.9397, Valid Loss: 0.8225, Valid Accuracy: 0.7923, Time: 8.40s
+Epoch 48/50, Train Loss: 0.1770, Train Accuracy: 0.9417, Valid Loss: 0.8385, Valid Accuracy: 0.7910, Time: 8.58s
+Epoch 49/50, Train Loss: 0.1734, Train Accuracy: 0.9407, Valid Loss: 0.8491, Valid Accuracy: 0.7890, Time: 8.72s
+Epoch 50/50, Train Loss: 0.1698, Train Accuracy: 0.9443, Valid Loss: 0.8393, Valid Accuracy: 0.7958, Time: 8.59s
+Training Finished
+Test Loss: 0.2778, Test Accuracy: 0.9253
+Confusion Matrix:
+[[ 542    5    2    2    7    0   41    1    2    0   91    4    2    1
+     8    1   15    0]
+ [   5  171    3    1    1    0   10    0    1    0   78    1    0    0
+     1    3    2    0]
+ [   3    1  213    1    2    0   11    1    0    3   21    1    0   10
+     0   24    7    0]
+ [   5    0    1  220    0    0   12    1    7    0   10    0   10    0
+     1    0    1    0]
+ [   0    0    0    0 2000    0    0    0    0    0    0    0    0    0
+     0    0    0    0]
+ [   1    0    0    2    0   23    2    0    0    0   69    0    0    0
+     0    1    0    2]
+ [  19    2    3   10    4    0 9223   15    0    3   86    6    0    0
+     4   10   19    4]
+ [   0    0    0    5    2    0   14  944    0    2    5    4    2    0
+     1    7    5    0]
+ [   1    0    0   17    0    0    2    1   44    0    4    0    3    0
+     0    0    0    1]
+ [   0    0    1    0    1    0    7    1    0  186    3    0    0    0
+     1    1    2    0]
+ [  47   21   12    9   12   23   81    6    1    1 3371    0    1    0
+     5   13   25   40]
+ [   0    1    0    0    0    0    7    0    0    0    5  113    1    0
+     0    0   12    0]
+ [   0    0    0   21    0    0    7    2    3    0    8    0   51    0
+     0    1    1    0]
+ [   0    0   18    0    1    0    1    0    0    1    7    0    0   35
+     1    6    4    0]
+ [  17    0    0    1    0    1    6    1    1    0   39    0    0    0
+   218    3    9    1]
+ [   0    3   21    0    2    0   13    9    0    1   11    4    0    2
+     0  638    5    0]
+ [  21    2    1    1    2    1   33    4    0    0   38    3    0    0
+     1    1  411    0]
+ [   2    2    0    0    0    3    7    0    0    0   45    0    0    0
+     0    0    2  171]]
+Model Saved
+Confusion Matrix Saved
