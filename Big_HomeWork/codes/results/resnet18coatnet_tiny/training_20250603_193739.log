@@ -1,0 +1,8 @@
+2025-06-03 19:37:39,023 - INFO - Model: resnet18coatnet_tiny
+2025-06-03 19:37:39,023 - INFO - Batch Size: 64
+2025-06-03 19:37:39,023 - INFO - Device: cuda
+2025-06-03 19:37:39,023 - INFO - ResNet18-CoAtNet model variant: resnet18coatnet_tiny
+2025-06-03 19:37:39,023 - INFO - Using AdamW optimizer with weight decay 0.05
+2025-06-03 19:37:39,023 - INFO - Input Size: 32x32
+2025-06-03 19:37:39,024 - INFO - Hybrid model combining ResNet18 and CoAtNet architectures
+2025-06-03 19:37:40,470 - INFO - Starting training...

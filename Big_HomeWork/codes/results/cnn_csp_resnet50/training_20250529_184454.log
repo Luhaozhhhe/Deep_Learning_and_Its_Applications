@@ -1,0 +1,4 @@
+2025-05-29 18:44:54,978 - INFO - Model: cnn_csp_resnet50
+2025-05-29 18:44:54,978 - INFO - Batch Size: 64
+2025-05-29 18:44:54,978 - INFO - Device: cpu
+2025-05-29 18:44:56,780 - INFO - Starting training...

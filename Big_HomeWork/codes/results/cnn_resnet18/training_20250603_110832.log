@@ -1,0 +1,4 @@
+2025-06-03 11:08:32,047 - INFO - Model: cnn_resnet18
+2025-06-03 11:08:32,047 - INFO - Batch Size: 64
+2025-06-03 11:08:32,047 - INFO - Device: cuda
+2025-06-03 11:09:37,018 - INFO - Starting training...

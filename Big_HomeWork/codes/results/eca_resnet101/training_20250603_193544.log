@@ -1,0 +1,4 @@
+2025-06-03 19:35:44,385 - INFO - Model: eca_resnet101
+2025-06-03 19:35:44,385 - INFO - Batch Size: 64
+2025-06-03 19:35:44,385 - INFO - Device: cuda
+2025-06-03 19:35:48,901 - INFO - Starting training...

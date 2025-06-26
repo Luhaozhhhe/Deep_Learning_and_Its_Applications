@@ -1,0 +1,19 @@
+2025-05-29 22:34:43,752 - INFO - Model: convnext_tiny
+2025-05-29 22:34:43,752 - INFO - Batch Size: 64
+2025-05-29 22:34:43,752 - INFO - Device: cuda
+2025-05-29 22:34:43,752 - INFO - Using pretrained: False
+2025-05-29 22:34:43,752 - INFO - Input Size: 64x64
+2025-05-29 22:34:46,153 - INFO - Starting training...
+2025-05-29 22:35:56,995 - INFO - Epoch 1/10, Train Loss: 3.8966, Train Accuracy: 0.1068, Valid Loss: 3.5201, Valid Accuracy: 0.1543, Time: 70.84s
+2025-05-29 22:37:06,841 - INFO - Epoch 2/10, Train Loss: 3.3758, Train Accuracy: 0.1856, Valid Loss: 3.2236, Valid Accuracy: 0.2221, Time: 69.85s
+2025-05-29 22:38:17,355 - INFO - Epoch 3/10, Train Loss: 3.1416, Train Accuracy: 0.2293, Valid Loss: 3.0833, Valid Accuracy: 0.2413, Time: 70.51s
+2025-05-29 22:39:26,277 - INFO - Epoch 4/10, Train Loss: 2.9572, Train Accuracy: 0.2637, Valid Loss: 2.9315, Valid Accuracy: 0.2736, Time: 68.92s
+2025-05-29 22:40:36,415 - INFO - Epoch 5/10, Train Loss: 2.7807, Train Accuracy: 0.2952, Valid Loss: 2.7717, Valid Accuracy: 0.3009, Time: 70.14s
+2025-05-29 22:41:44,690 - INFO - Epoch 6/10, Train Loss: 2.6114, Train Accuracy: 0.3298, Valid Loss: 2.6690, Valid Accuracy: 0.3249, Time: 68.27s
+2025-05-29 22:42:58,076 - INFO - Epoch 7/10, Train Loss: 2.4643, Train Accuracy: 0.3598, Valid Loss: 2.6288, Valid Accuracy: 0.3402, Time: 73.39s
+2025-05-29 22:44:11,685 - INFO - Epoch 8/10, Train Loss: 2.3166, Train Accuracy: 0.3951, Valid Loss: 2.4472, Valid Accuracy: 0.3698, Time: 73.61s
+2025-05-29 22:45:19,324 - INFO - Epoch 9/10, Train Loss: 2.1765, Train Accuracy: 0.4225, Valid Loss: 2.3988, Valid Accuracy: 0.3908, Time: 67.64s
+2025-05-29 22:46:26,686 - INFO - Epoch 10/10, Train Loss: 2.0259, Train Accuracy: 0.4543, Valid Loss: 2.2657, Valid Accuracy: 0.4113, Time: 67.36s
+2025-05-29 22:46:26,687 - INFO - Training Finished
+2025-05-29 22:46:33,030 - INFO - Final Test Loss: 2.2714, Test Accuracy: 0.4140
+2025-05-29 22:46:34,382 - INFO - Model Saved

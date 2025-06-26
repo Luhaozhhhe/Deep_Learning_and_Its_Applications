@@ -1,0 +1,6 @@
+2025-06-03 22:57:51,748 - INFO - Model: convnext_tiny_gmlp
+2025-06-03 22:57:51,749 - INFO - Batch Size: 64
+2025-06-03 22:57:51,749 - INFO - Device: cuda
+2025-06-03 22:57:51,749 - INFO - Using pretrained: False
+2025-06-03 22:57:51,749 - INFO - Input Size: 64x64
+2025-06-03 22:57:54,123 - INFO - Starting training...

@@ -1,0 +1,7 @@
+2025-06-03 19:31:56,335 - INFO - Model: coatnet_tiny
+2025-06-03 19:31:56,335 - INFO - Batch Size: 64
+2025-06-03 19:31:56,335 - INFO - Device: cuda
+2025-06-03 19:31:56,335 - INFO - CoAtNet model variant: coatnet_tiny
+2025-06-03 19:31:56,335 - INFO - Using AdamW optimizer with weight decay 0.05
+2025-06-03 19:31:56,335 - INFO - Input Size: 32x32
+2025-06-03 19:31:57,726 - INFO - Starting training...

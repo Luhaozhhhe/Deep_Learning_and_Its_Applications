@@ -1,0 +1,10 @@
+2025-06-03 16:09:13,886 - INFO - Model: convnext_small
+2025-06-03 16:09:13,886 - INFO - Batch Size: 64
+2025-06-03 16:09:13,886 - INFO - Device: cuda
+2025-06-03 16:09:13,886 - INFO - Using pretrained: False
+2025-06-03 16:09:13,886 - INFO - Input Size: 32x32
+2025-06-03 16:09:16,837 - INFO - Starting training...
+2025-06-03 16:12:21,848 - INFO - Epoch 1/15, Train Loss: 4.0397, Train Top-1 Acc: 9.50%, Train Top-5 Acc: 27.58%, Valid Loss: 3.8667, Valid Top-1 Acc: 11.90%, Valid Top-5 Acc: 33.23%, Time: 185.01s
+2025-06-03 16:15:32,535 - INFO - Epoch 2/15, Train Loss: 3.7730, Train Top-1 Acc: 13.34%, Train Top-5 Acc: 35.08%, Valid Loss: 3.7114, Valid Top-1 Acc: 14.74%, Valid Top-5 Acc: 36.61%, Time: 190.69s
+2025-06-03 16:18:48,452 - INFO - Epoch 3/15, Train Loss: 3.6154, Train Top-1 Acc: 15.79%, Train Top-5 Acc: 39.37%, Valid Loss: 3.5519, Valid Top-1 Acc: 17.05%, Valid Top-5 Acc: 41.29%, Time: 195.92s
+2025-06-03 16:22:03,325 - INFO - Epoch 4/15, Train Loss: 3.4867, Train Top-1 Acc: 17.80%, Train Top-5 Acc: 42.89%, Valid Loss: 3.4481, Valid Top-1 Acc: 18.50%, Valid Top-5 Acc: 44.51%, Time: 194.87s

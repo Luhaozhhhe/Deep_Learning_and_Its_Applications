@@ -1,0 +1,9 @@
+2025-06-03 20:51:35,475 - INFO - Model: Wide_ResNet
+2025-06-03 20:51:35,476 - INFO - Batch Size: 64
+2025-06-03 20:51:35,476 - INFO - Device: cuda
+2025-06-03 20:51:35,476 - INFO - Using general model: Wide_ResNet
+2025-06-03 20:51:37,979 - INFO - Initialized model: Wide_ResNet
+2025-06-03 20:51:38,144 - INFO - Starting training...
+2025-06-03 20:54:13,508 - INFO - Epoch 1/50, Train Loss: 3.6984, Train Top-1 Acc: 14.12%, Train Top-5 Acc: 37.48%, Valid Loss: 3.1553, Valid Top-1 Acc: 21.94%, Valid Top-5 Acc: 52.98%, Time: 155.36s
+2025-06-03 20:56:48,515 - INFO - Epoch 2/50, Train Loss: 2.7373, Train Top-1 Acc: 30.09%, Train Top-5 Acc: 62.18%, Valid Loss: 2.4627, Valid Top-1 Acc: 35.29%, Valid Top-5 Acc: 69.10%, Time: 155.01s
+2025-06-03 20:59:23,569 - INFO - Epoch 3/50, Train Loss: 2.2524, Train Top-1 Acc: 40.31%, Train Top-5 Acc: 73.04%, Valid Loss: 2.2639, Valid Top-1 Acc: 41.32%, Valid Top-5 Acc: 73.80%, Time: 155.05s

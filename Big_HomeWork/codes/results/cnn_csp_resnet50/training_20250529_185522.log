@@ -1,0 +1,6 @@
+2025-05-29 18:55:22,264 - INFO - Model: cnn_csp_resnet50
+2025-05-29 18:55:22,264 - INFO - Batch Size: 64
+2025-05-29 18:55:22,265 - INFO - Device: cpu
+2025-05-29 18:55:23,783 - INFO - Starting training...
+2025-05-29 18:59:49,097 - INFO - Epoch 1/50, Train Loss: 4.0111, Train Top-1 Acc: 12.55%, Train Top-5 Acc: 34.49%, Valid Loss: 3.6479, Valid Top-1 Acc: 18.00%, Valid Top-5 Acc: 45.33%, Time: 265.31s
+2025-05-29 19:04:26,848 - INFO - Epoch 2/50, Train Loss: 3.4212, Train Top-1 Acc: 20.02%, Train Top-5 Acc: 48.51%, Valid Loss: 6.8725, Valid Top-1 Acc: 22.69%, Valid Top-5 Acc: 51.92%, Time: 277.75s

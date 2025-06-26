@@ -1,0 +1,25 @@
+2025-06-03 21:23:16,928 - INFO - Model: cnn_resnet18_imporved
+2025-06-03 21:23:16,928 - INFO - Batch Size: 64
+2025-06-03 21:23:16,928 - INFO - Device: cuda
+2025-06-03 21:23:19,004 - INFO - Starting training...
+2025-06-03 21:23:37,245 - INFO - Epoch 1/15, Train Loss: 3.2274, Train Top-1 Acc: 20.39%, Train Top-5 Acc: 48.62%, Valid Loss: 2.3214, Valid Top-1 Acc: 32.37%, Valid Top-5 Acc: 70.53%, Time: 18.24s
+2025-06-03 21:23:54,715 - INFO - Epoch 2/15, Train Loss: 2.8367, Train Top-1 Acc: 30.11%, Train Top-5 Acc: 59.43%, Valid Loss: 2.1049, Valid Top-1 Acc: 38.57%, Valid Top-5 Acc: 76.93%, Time: 17.47s
+2025-06-03 21:24:12,165 - INFO - Epoch 3/15, Train Loss: 2.5998, Train Top-1 Acc: 36.69%, Train Top-5 Acc: 65.22%, Valid Loss: 1.8688, Valid Top-1 Acc: 44.70%, Valid Top-5 Acc: 81.20%, Time: 17.45s
+2025-06-03 21:24:29,626 - INFO - Epoch 4/15, Train Loss: 2.3871, Train Top-1 Acc: 42.23%, Train Top-5 Acc: 70.71%, Valid Loss: 1.6700, Valid Top-1 Acc: 50.77%, Valid Top-5 Acc: 84.17%, Time: 17.46s
+2025-06-03 21:24:47,165 - INFO - Epoch 5/15, Train Loss: 2.2452, Train Top-1 Acc: 45.53%, Train Top-5 Acc: 75.88%, Valid Loss: 1.5893, Valid Top-1 Acc: 52.50%, Valid Top-5 Acc: 85.23%, Time: 17.54s
+2025-06-03 21:25:03,720 - INFO - Epoch 6/15, Train Loss: 2.0938, Train Top-1 Acc: 49.32%, Train Top-5 Acc: 80.23%, Valid Loss: 1.4188, Valid Top-1 Acc: 57.03%, Valid Top-5 Acc: 87.97%, Time: 16.55s
+2025-06-03 21:25:21,155 - INFO - Epoch 7/15, Train Loss: 1.9122, Train Top-1 Acc: 53.84%, Train Top-5 Acc: 85.02%, Valid Loss: 1.3907, Valid Top-1 Acc: 58.00%, Valid Top-5 Acc: 88.13%, Time: 17.43s
+2025-06-03 21:25:38,611 - INFO - Epoch 8/15, Train Loss: 1.7947, Train Top-1 Acc: 55.91%, Train Top-5 Acc: 89.77%, Valid Loss: 1.3567, Valid Top-1 Acc: 59.60%, Valid Top-5 Acc: 89.07%, Time: 17.46s
+2025-06-03 21:25:56,083 - INFO - Epoch 9/15, Train Loss: 1.6825, Train Top-1 Acc: 58.46%, Train Top-5 Acc: 93.48%, Valid Loss: 1.3391, Valid Top-1 Acc: 60.23%, Valid Top-5 Acc: 90.30%, Time: 17.47s
+2025-06-03 21:26:13,531 - INFO - Epoch 10/15, Train Loss: 1.5123, Train Top-1 Acc: 62.49%, Train Top-5 Acc: 96.01%, Valid Loss: 1.4083, Valid Top-1 Acc: 61.03%, Valid Top-5 Acc: 89.27%, Time: 17.45s
+2025-06-03 21:26:30,994 - INFO - Epoch 11/15, Train Loss: 1.4269, Train Top-1 Acc: 64.07%, Train Top-5 Acc: 97.92%, Valid Loss: 1.3152, Valid Top-1 Acc: 63.10%, Valid Top-5 Acc: 90.73%, Time: 17.46s
+2025-06-03 21:26:48,452 - INFO - Epoch 12/15, Train Loss: 1.3485, Train Top-1 Acc: 65.35%, Train Top-5 Acc: 98.83%, Valid Loss: 1.2072, Valid Top-1 Acc: 66.60%, Valid Top-5 Acc: 91.20%, Time: 17.46s
+2025-06-03 21:27:06,059 - INFO - Epoch 13/15, Train Loss: 1.2579, Train Top-1 Acc: 67.14%, Train Top-5 Acc: 99.39%, Valid Loss: 1.4032, Valid Top-1 Acc: 63.97%, Valid Top-5 Acc: 89.97%, Time: 17.61s
+2025-06-03 21:27:23,524 - INFO - Epoch 14/15, Train Loss: 1.2146, Train Top-1 Acc: 67.73%, Train Top-5 Acc: 99.62%, Valid Loss: 1.5263, Valid Top-1 Acc: 62.37%, Valid Top-5 Acc: 88.70%, Time: 17.46s
+2025-06-03 21:27:39,991 - INFO - Epoch 15/15, Train Loss: 1.1878, Train Top-1 Acc: 68.07%, Train Top-5 Acc: 99.78%, Valid Loss: 1.5198, Valid Top-1 Acc: 63.77%, Valid Top-5 Acc: 89.77%, Time: 16.47s
+2025-06-03 21:27:39,992 - INFO - Training Finished
+2025-06-03 21:27:40,913 - INFO - Final Test Results:
+2025-06-03 21:27:40,913 - INFO - Test Loss: 1.5198
+2025-06-03 21:27:40,913 - INFO - Top-1 Accuracy: 63.77%
+2025-06-03 21:27:40,913 - INFO - Top-5 Accuracy: 89.77%
+2025-06-03 21:27:41,506 - INFO - Model Saved

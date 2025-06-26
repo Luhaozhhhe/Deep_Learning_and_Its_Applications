@@ -1,0 +1,8 @@
+2025-06-02 17:34:37,432 - INFO - Model: horcoatnet_base
+2025-06-02 17:34:37,432 - INFO - Batch Size: 64
+2025-06-02 17:34:37,432 - INFO - Device: cuda
+2025-06-02 17:34:37,432 - INFO - HorCoAtNet model variant: horcoatnet_base
+2025-06-02 17:34:37,432 - INFO - Using AdamW optimizer with weight decay 0.05
+2025-06-02 17:34:37,432 - INFO - Input Size: 32x32
+2025-06-02 17:34:37,432 - INFO - Hybrid model combining HorNet's gnconv with CoAtNet's architecture
+2025-06-02 17:34:41,982 - INFO - Starting training...

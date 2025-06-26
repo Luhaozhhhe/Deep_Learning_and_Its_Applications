@@ -1,0 +1,5 @@
+2025-06-03 22:09:53,160 - INFO - Model: convnext_isotropic_small
+2025-06-03 22:09:53,161 - INFO - Batch Size: 64
+2025-06-03 22:09:53,161 - INFO - Device: cuda
+2025-06-03 22:09:53,161 - INFO - Using pretrained: False
+2025-06-03 22:09:53,161 - INFO - Input Size: 64x64

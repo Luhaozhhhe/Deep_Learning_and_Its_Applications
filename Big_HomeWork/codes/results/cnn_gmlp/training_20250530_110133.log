@@ -1,0 +1,57 @@
+2025-05-30 11:01:33,495 - INFO - Model: cnn_gmlp
+2025-05-30 11:01:33,496 - INFO - Batch Size: 64
+2025-05-30 11:01:33,496 - INFO - Device: cuda
+2025-05-30 11:01:35,173 - INFO - Starting training...
+2025-05-30 11:07:01,705 - INFO - Epoch 1/50, Train Loss: 3.6135, Train Accuracy: 0.1480, Valid Loss: 3.0238, Valid Accuracy: 0.2523, Time: 326.53s
+2025-05-30 11:12:28,071 - INFO - Epoch 2/50, Train Loss: 2.8135, Train Accuracy: 0.2891, Valid Loss: 2.5825, Valid Accuracy: 0.3360, Time: 326.37s
+2025-05-30 11:17:50,208 - INFO - Epoch 3/50, Train Loss: 2.3713, Train Accuracy: 0.3789, Valid Loss: 2.2257, Valid Accuracy: 0.4168, Time: 322.14s
+2025-05-30 11:23:01,573 - INFO - Epoch 4/50, Train Loss: 2.0328, Train Accuracy: 0.4531, Valid Loss: 2.1386, Valid Accuracy: 0.4356, Time: 311.36s
+2025-05-30 11:28:32,160 - INFO - Epoch 5/50, Train Loss: 1.7204, Train Accuracy: 0.5249, Valid Loss: 2.0393, Valid Accuracy: 0.4633, Time: 330.59s
+2025-05-30 11:33:47,625 - INFO - Epoch 6/50, Train Loss: 1.4435, Train Accuracy: 0.5911, Valid Loss: 2.0494, Valid Accuracy: 0.4739, Time: 315.47s
+2025-05-30 11:38:55,830 - INFO - Epoch 7/50, Train Loss: 1.1649, Train Accuracy: 0.6603, Valid Loss: 2.0955, Valid Accuracy: 0.4752, Time: 308.21s
+2025-05-30 11:44:01,430 - INFO - Epoch 8/50, Train Loss: 0.9218, Train Accuracy: 0.7272, Valid Loss: 2.2045, Valid Accuracy: 0.4813, Time: 305.60s
+2025-05-30 11:49:09,246 - INFO - Epoch 9/50, Train Loss: 0.6982, Train Accuracy: 0.7877, Valid Loss: 2.3701, Valid Accuracy: 0.4743, Time: 307.82s
+2025-05-30 11:54:21,061 - INFO - Epoch 10/50, Train Loss: 0.5370, Train Accuracy: 0.8396, Valid Loss: 2.5890, Valid Accuracy: 0.4687, Time: 311.81s
+2025-05-30 11:59:30,766 - INFO - Epoch 11/50, Train Loss: 0.4754, Train Accuracy: 0.8561, Valid Loss: 2.6129, Valid Accuracy: 0.4776, Time: 309.70s
+2025-05-30 12:04:37,348 - INFO - Epoch 12/50, Train Loss: 0.4053, Train Accuracy: 0.8777, Valid Loss: 2.7408, Valid Accuracy: 0.4772, Time: 306.58s
+2025-05-30 12:09:47,680 - INFO - Epoch 13/50, Train Loss: 0.3596, Train Accuracy: 0.8955, Valid Loss: 2.8071, Valid Accuracy: 0.4724, Time: 310.33s
+2025-05-30 12:14:56,186 - INFO - Epoch 14/50, Train Loss: 0.3447, Train Accuracy: 0.8978, Valid Loss: 2.8652, Valid Accuracy: 0.4770, Time: 308.51s
+2025-05-30 12:20:03,396 - INFO - Epoch 15/50, Train Loss: 0.2977, Train Accuracy: 0.9117, Valid Loss: 2.9180, Valid Accuracy: 0.4785, Time: 307.21s
+2025-05-30 12:25:08,680 - INFO - Epoch 16/50, Train Loss: 0.2625, Train Accuracy: 0.9202, Valid Loss: 2.9801, Valid Accuracy: 0.4816, Time: 305.28s
+2025-05-30 12:30:15,504 - INFO - Epoch 17/50, Train Loss: 0.2335, Train Accuracy: 0.9282, Valid Loss: 3.0994, Valid Accuracy: 0.4770, Time: 306.82s
+2025-05-30 12:35:20,824 - INFO - Epoch 18/50, Train Loss: 0.2370, Train Accuracy: 0.9275, Valid Loss: 3.0922, Valid Accuracy: 0.4806, Time: 305.32s
+2025-05-30 12:40:26,154 - INFO - Epoch 19/50, Train Loss: 0.2088, Train Accuracy: 0.9356, Valid Loss: 3.2186, Valid Accuracy: 0.4670, Time: 305.33s
+2025-05-30 12:45:30,022 - INFO - Epoch 20/50, Train Loss: 0.2066, Train Accuracy: 0.9365, Valid Loss: 3.2263, Valid Accuracy: 0.4709, Time: 303.87s
+2025-05-30 12:50:34,531 - INFO - Epoch 21/50, Train Loss: 0.1906, Train Accuracy: 0.9420, Valid Loss: 3.2299, Valid Accuracy: 0.4737, Time: 304.51s
+2025-05-30 12:55:36,618 - INFO - Epoch 22/50, Train Loss: 0.2389, Train Accuracy: 0.9303, Valid Loss: 3.2198, Valid Accuracy: 0.4749, Time: 302.09s
+2025-05-30 13:00:37,970 - INFO - Epoch 23/50, Train Loss: 0.1788, Train Accuracy: 0.9456, Valid Loss: 3.2152, Valid Accuracy: 0.4787, Time: 301.35s
+2025-05-30 13:05:46,326 - INFO - Epoch 24/50, Train Loss: 0.1501, Train Accuracy: 0.9541, Valid Loss: 3.3616, Valid Accuracy: 0.4808, Time: 308.36s
+2025-05-30 13:10:49,924 - INFO - Epoch 25/50, Train Loss: 0.1657, Train Accuracy: 0.9489, Valid Loss: 3.3782, Valid Accuracy: 0.4799, Time: 303.60s
+2025-05-30 13:15:53,063 - INFO - Epoch 26/50, Train Loss: 0.1679, Train Accuracy: 0.9485, Valid Loss: 3.3008, Valid Accuracy: 0.4767, Time: 303.14s
+2025-05-30 13:21:00,944 - INFO - Epoch 27/50, Train Loss: 0.1562, Train Accuracy: 0.9536, Valid Loss: 3.3893, Valid Accuracy: 0.4740, Time: 307.88s
+2025-05-30 13:26:09,135 - INFO - Epoch 28/50, Train Loss: 0.1461, Train Accuracy: 0.9556, Valid Loss: 3.3405, Valid Accuracy: 0.4806, Time: 308.19s
+2025-05-30 13:31:14,837 - INFO - Epoch 29/50, Train Loss: 0.1470, Train Accuracy: 0.9573, Valid Loss: 3.4483, Valid Accuracy: 0.4777, Time: 305.70s
+2025-05-30 13:36:20,672 - INFO - Epoch 30/50, Train Loss: 0.1277, Train Accuracy: 0.9606, Valid Loss: 3.4642, Valid Accuracy: 0.4791, Time: 305.84s
+2025-05-30 13:41:25,546 - INFO - Epoch 31/50, Train Loss: 0.1294, Train Accuracy: 0.9599, Valid Loss: 3.4827, Valid Accuracy: 0.4863, Time: 304.87s
+2025-05-30 13:46:29,752 - INFO - Epoch 32/50, Train Loss: 0.1470, Train Accuracy: 0.9553, Valid Loss: 3.4468, Valid Accuracy: 0.4862, Time: 304.21s
+2025-05-30 13:51:36,510 - INFO - Epoch 33/50, Train Loss: 0.1286, Train Accuracy: 0.9619, Valid Loss: 3.4627, Valid Accuracy: 0.4896, Time: 306.76s
+2025-05-30 13:56:41,180 - INFO - Epoch 34/50, Train Loss: 0.1304, Train Accuracy: 0.9612, Valid Loss: 3.4531, Valid Accuracy: 0.4777, Time: 304.67s
+2025-05-30 14:01:46,878 - INFO - Epoch 35/50, Train Loss: 0.1162, Train Accuracy: 0.9653, Valid Loss: 3.4479, Valid Accuracy: 0.4826, Time: 305.70s
+2025-05-30 14:06:54,027 - INFO - Epoch 36/50, Train Loss: 0.1166, Train Accuracy: 0.9655, Valid Loss: 3.4506, Valid Accuracy: 0.4911, Time: 307.15s
+2025-05-30 14:11:57,942 - INFO - Epoch 37/50, Train Loss: 0.1347, Train Accuracy: 0.9619, Valid Loss: 3.3585, Valid Accuracy: 0.4878, Time: 303.91s
+2025-05-30 14:17:02,641 - INFO - Epoch 38/50, Train Loss: 0.1022, Train Accuracy: 0.9691, Valid Loss: 3.5126, Valid Accuracy: 0.4852, Time: 304.70s
+2025-05-30 14:22:07,061 - INFO - Epoch 39/50, Train Loss: 0.1271, Train Accuracy: 0.9626, Valid Loss: 3.4795, Valid Accuracy: 0.4837, Time: 304.42s
+2025-05-30 14:27:11,318 - INFO - Epoch 40/50, Train Loss: 0.1072, Train Accuracy: 0.9686, Valid Loss: 3.5084, Valid Accuracy: 0.4901, Time: 304.26s
+2025-05-30 14:32:17,139 - INFO - Epoch 41/50, Train Loss: 0.0944, Train Accuracy: 0.9710, Valid Loss: 3.6181, Valid Accuracy: 0.4819, Time: 305.82s
+2025-05-30 14:37:22,993 - INFO - Epoch 42/50, Train Loss: 0.0961, Train Accuracy: 0.9707, Valid Loss: 3.6161, Valid Accuracy: 0.4845, Time: 305.85s
+2025-05-30 14:42:27,392 - INFO - Epoch 43/50, Train Loss: 0.1342, Train Accuracy: 0.9616, Valid Loss: 3.5932, Valid Accuracy: 0.4821, Time: 304.40s
+2025-05-30 14:47:33,583 - INFO - Epoch 44/50, Train Loss: 0.0944, Train Accuracy: 0.9731, Valid Loss: 3.5359, Valid Accuracy: 0.4926, Time: 306.19s
+2025-05-30 14:52:39,167 - INFO - Epoch 45/50, Train Loss: 0.1067, Train Accuracy: 0.9701, Valid Loss: 3.5502, Valid Accuracy: 0.4849, Time: 305.58s
+2025-05-30 14:57:47,331 - INFO - Epoch 46/50, Train Loss: 0.0834, Train Accuracy: 0.9746, Valid Loss: 3.6270, Valid Accuracy: 0.4830, Time: 308.16s
+2025-05-30 15:02:52,092 - INFO - Epoch 47/50, Train Loss: 0.0922, Train Accuracy: 0.9709, Valid Loss: 3.7039, Valid Accuracy: 0.4781, Time: 304.76s
+2025-05-30 15:07:57,828 - INFO - Epoch 48/50, Train Loss: 0.1032, Train Accuracy: 0.9695, Valid Loss: 3.6721, Valid Accuracy: 0.4880, Time: 305.74s
+2025-05-30 15:13:05,168 - INFO - Epoch 49/50, Train Loss: 0.0923, Train Accuracy: 0.9733, Valid Loss: 3.6525, Valid Accuracy: 0.4901, Time: 307.34s
+2025-05-30 15:18:11,301 - INFO - Epoch 50/50, Train Loss: 0.0783, Train Accuracy: 0.9761, Valid Loss: 3.6727, Valid Accuracy: 0.4878, Time: 306.13s
+2025-05-30 15:18:11,302 - INFO - Training Finished
+2025-05-30 15:18:18,327 - INFO - Final Test Loss: 3.6727, Test Accuracy: 0.4878
+2025-05-30 15:18:18,407 - INFO - Model Saved

@@ -1,0 +1,3 @@
+2025-06-03 11:07:20,003 - INFO - Model: cnn_resnet18
+2025-06-03 11:07:20,004 - INFO - Batch Size: 64
+2025-06-03 11:07:20,004 - INFO - Device: cuda

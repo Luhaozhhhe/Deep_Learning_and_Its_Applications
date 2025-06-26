@@ -1,0 +1,3 @@
+2025-06-03 20:14:52,916 - INFO - Model: hor_gmlp_tiny
+2025-06-03 20:14:52,916 - INFO - Batch Size: 64
+2025-06-03 20:14:52,917 - INFO - Device: cuda

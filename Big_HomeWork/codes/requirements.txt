@@ -1,0 +1,8 @@
+matplotlib == 3.10.1
+torch == 2.7.0
+torchvision == 0.22.0
+numpy == 2.2.5
+timm==1.0.15
+seaborn == 0.13.2
+mmcv == 2.2.0
+einops == 0.8.1

@@ -1,0 +1,55 @@
+# Python 缓存
+/__pycache__
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# 虚拟环境
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints
+
+# 数据集和模型文件
+/data/
+*.h5
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+
+# 训练输出
+logs/
+runs/
+
+# IDE 配置
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 省略虚拟环境
+/CNN
+
+# 省略cifar100的数据集，太大了
+/data
+
+# 省略python运行文件
+/model/__pycache__
+
+# 由于训练出来的模型较大，省略，后面每训练出一个，都记得加一下gitignore
+/results/cnn_base/model.pth
+/results/cnn_resnet18/model.pth
+/results/cnn_resnet34/model.pth
+/results/cnn_se_resnet18/model.pth
+
+# 省略拉到本地的项目代码
+/hor
+/coat

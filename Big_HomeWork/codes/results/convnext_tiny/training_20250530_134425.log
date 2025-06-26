@@ -1,0 +1,15 @@
+2025-05-30 13:44:25,616 - INFO - Model: convnext_tiny
+2025-05-30 13:44:25,616 - INFO - Batch Size: 64
+2025-05-30 13:44:25,617 - INFO - Device: cuda
+2025-05-30 13:44:25,617 - INFO - Using pretrained: False
+2025-05-30 13:44:25,617 - INFO - Input Size: 128x128
+2025-05-30 13:44:28,008 - INFO - Starting training...
+2025-05-30 13:46:32,749 - INFO - Epoch 1/30, Train Loss: nan, Train Top-1 Acc: 1.00%, Train Top-5 Acc: 5.00%, Valid Loss: nan, Valid Top-1 Acc: 1.00%, Valid Top-5 Acc: 5.00%, Time: 124.74s
+2025-05-30 13:48:38,521 - INFO - Epoch 2/30, Train Loss: nan, Train Top-1 Acc: 1.00%, Train Top-5 Acc: 5.00%, Valid Loss: nan, Valid Top-1 Acc: 1.00%, Valid Top-5 Acc: 5.00%, Time: 125.77s
+2025-05-30 13:50:42,039 - INFO - Epoch 3/30, Train Loss: nan, Train Top-1 Acc: 1.00%, Train Top-5 Acc: 5.00%, Valid Loss: nan, Valid Top-1 Acc: 1.00%, Valid Top-5 Acc: 5.00%, Time: 123.52s
+2025-05-30 13:52:45,243 - INFO - Epoch 4/30, Train Loss: nan, Train Top-1 Acc: 1.00%, Train Top-5 Acc: 5.00%, Valid Loss: nan, Valid Top-1 Acc: 1.00%, Valid Top-5 Acc: 5.00%, Time: 123.20s
+2025-05-30 13:54:48,444 - INFO - Epoch 5/30, Train Loss: nan, Train Top-1 Acc: 1.00%, Train Top-5 Acc: 5.00%, Valid Loss: nan, Valid Top-1 Acc: 1.00%, Valid Top-5 Acc: 5.00%, Time: 123.20s
+2025-05-30 13:56:51,797 - INFO - Epoch 6/30, Train Loss: nan, Train Top-1 Acc: 1.00%, Train Top-5 Acc: 5.00%, Valid Loss: nan, Valid Top-1 Acc: 1.00%, Valid Top-5 Acc: 5.00%, Time: 123.35s
+2025-05-30 13:58:56,683 - INFO - Epoch 7/30, Train Loss: nan, Train Top-1 Acc: 1.00%, Train Top-5 Acc: 5.00%, Valid Loss: nan, Valid Top-1 Acc: 1.00%, Valid Top-5 Acc: 5.00%, Time: 124.88s
+2025-05-30 14:01:00,455 - INFO - Epoch 8/30, Train Loss: nan, Train Top-1 Acc: 1.00%, Train Top-5 Acc: 5.00%, Valid Loss: nan, Valid Top-1 Acc: 1.00%, Valid Top-5 Acc: 5.00%, Time: 123.77s
+2025-05-30 14:03:02,831 - INFO - Epoch 9/30, Train Loss: nan, Train Top-1 Acc: 1.00%, Train Top-5 Acc: 5.00%, Valid Loss: nan, Valid Top-1 Acc: 1.00%, Valid Top-5 Acc: 5.00%, Time: 122.38s

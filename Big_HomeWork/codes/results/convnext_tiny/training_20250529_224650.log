@@ -1,0 +1,9 @@
+2025-05-29 22:46:50,912 - INFO - Model: convnext_tiny
+2025-05-29 22:46:50,912 - INFO - Batch Size: 64
+2025-05-29 22:46:50,912 - INFO - Device: cuda
+2025-05-29 22:46:50,912 - INFO - Using pretrained: False
+2025-05-29 22:46:50,912 - INFO - Input Size: 64x64
+2025-05-29 22:46:53,305 - INFO - Starting training...
+2025-05-29 22:48:02,492 - INFO - Epoch 1/50, Train Loss: 3.9009, Train Accuracy: 0.1052, Valid Loss: 3.5216, Valid Accuracy: 0.1587, Time: 69.19s
+2025-05-29 22:49:09,740 - INFO - Epoch 2/50, Train Loss: 3.3858, Train Accuracy: 0.1812, Valid Loss: 3.2579, Valid Accuracy: 0.2112, Time: 67.25s
+2025-05-29 22:50:17,131 - INFO - Epoch 3/50, Train Loss: 3.1703, Train Accuracy: 0.2228, Valid Loss: 3.0842, Valid Accuracy: 0.2442, Time: 67.39s

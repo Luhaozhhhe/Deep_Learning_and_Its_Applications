@@ -1,0 +1,12 @@
+2025-06-03 14:24:03,118 - INFO - Model: convnext_tiny
+2025-06-03 14:24:03,119 - INFO - Batch Size: 64
+2025-06-03 14:24:03,119 - INFO - Device: cuda
+2025-06-03 14:24:03,119 - INFO - Using pretrained: False
+2025-06-03 14:24:03,119 - INFO - Input Size: 64x64
+2025-06-03 14:24:05,487 - INFO - Starting training...
+2025-06-03 14:26:24,265 - INFO - Epoch 1/30, Train Loss: 4.1039, Train Top-1 Acc: 8.15%, Train Top-5 Acc: 24.83%, Valid Loss: 3.8698, Valid Top-1 Acc: 11.73%, Valid Top-5 Acc: 32.29%, Time: 138.78s
+2025-06-03 14:28:43,348 - INFO - Epoch 2/30, Train Loss: 3.7162, Train Top-1 Acc: 14.17%, Train Top-5 Acc: 36.47%, Valid Loss: 3.6121, Valid Top-1 Acc: 15.60%, Valid Top-5 Acc: 39.68%, Time: 139.08s
+2025-06-03 14:31:01,845 - INFO - Epoch 3/30, Train Loss: 3.5189, Train Top-1 Acc: 17.40%, Train Top-5 Acc: 42.18%, Valid Loss: 3.4538, Valid Top-1 Acc: 18.21%, Valid Top-5 Acc: 44.13%, Time: 138.50s
+2025-06-03 14:33:13,306 - INFO - Epoch 4/30, Train Loss: 3.3823, Train Top-1 Acc: 19.39%, Train Top-5 Acc: 45.66%, Valid Loss: 3.3272, Valid Top-1 Acc: 20.97%, Valid Top-5 Acc: 48.07%, Time: 131.46s
+2025-06-03 14:35:19,966 - INFO - Epoch 5/30, Train Loss: 3.2523, Train Top-1 Acc: 21.73%, Train Top-5 Acc: 49.25%, Valid Loss: 3.2065, Valid Top-1 Acc: 22.86%, Valid Top-5 Acc: 50.91%, Time: 126.66s
+2025-06-03 14:37:24,161 - INFO - Epoch 6/30, Train Loss: 3.1429, Train Top-1 Acc: 23.74%, Train Top-5 Acc: 52.11%, Valid Loss: 3.1160, Valid Top-1 Acc: 24.49%, Valid Top-5 Acc: 52.71%, Time: 124.19s

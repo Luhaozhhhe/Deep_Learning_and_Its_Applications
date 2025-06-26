@@ -1,0 +1,3 @@
+2025-05-29 18:39:41,266 - INFO - Model: cnn_csp_resnet50
+2025-05-29 18:39:41,267 - INFO - Batch Size: 64
+2025-05-29 18:39:41,267 - INFO - Device: cpu

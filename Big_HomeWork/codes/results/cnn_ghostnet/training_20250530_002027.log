@@ -1,0 +1,8 @@
+2025-05-30 00:20:27,285 - INFO - Model: cnn_ghostnet
+2025-05-30 00:20:27,285 - INFO - Batch Size: 64
+2025-05-30 00:20:27,286 - INFO - Device: cpu
+2025-05-30 00:20:29,037 - INFO - Starting training...
+2025-05-30 00:25:02,863 - INFO - Epoch 1/50, Train Loss: 3.9751, Train Top-1 Acc: 8.22%, Train Top-5 Acc: 27.05%, Valid Loss: 3.6283, Valid Top-1 Acc: 12.99%, Valid Top-5 Acc: 38.00%, Time: 273.83s
+2025-05-30 00:29:18,134 - INFO - Epoch 2/50, Train Loss: 3.5394, Train Top-1 Acc: 14.24%, Train Top-5 Acc: 40.30%, Valid Loss: 3.3480, Valid Top-1 Acc: 18.09%, Valid Top-5 Acc: 45.58%, Time: 255.27s
+2025-05-30 00:33:32,826 - INFO - Epoch 3/50, Train Loss: 3.3115, Train Top-1 Acc: 18.15%, Train Top-5 Acc: 46.67%, Valid Loss: 3.1456, Valid Top-1 Acc: 21.38%, Valid Top-5 Acc: 50.78%, Time: 254.69s
+2025-05-30 00:38:20,506 - INFO - Epoch 4/50, Train Loss: 3.1171, Train Top-1 Acc: 21.84%, Train Top-5 Acc: 51.78%, Valid Loss: 2.9909, Valid Top-1 Acc: 24.62%, Valid Top-5 Acc: 54.82%, Time: 287.68s
